@@ -114,7 +114,7 @@ public class Call extends javax.swing.JFrame {
 
         jLabel11.setBackground(new java.awt.Color(51, 255, 204));
         jLabel11.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        jLabel11.setText("DIAL INDIA CALLCENTRE");
+        jLabel11.setText("DIAL INDIA CALLCENTRE"); //set the text
 
         jLabel12.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel12.setText("CALL DETAILS");
